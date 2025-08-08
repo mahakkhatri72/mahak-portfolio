@@ -19138,6 +19138,7 @@ span.sr-only {
   position: relative;
   z-index: 1;
   height: 100%;
+	width:100%
   transition: 0.5s all ease-in-out;
   display: inline-block;
 }
@@ -19171,7 +19172,6 @@ span.sr-only {
   transition: var(--transition);
   height: auto;
   object-fit: cover;
-  max-height: 183px;
   object-position: top;
 }
 
