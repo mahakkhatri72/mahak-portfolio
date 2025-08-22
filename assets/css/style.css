@@ -19170,7 +19170,7 @@ span.sr-only {
 .rn-blog .inner .thumbnail a img {
   width: 100%;
   transition: var(--transition);
-  height: auto;
+  height: 200px;
   object-fit: cover;
   object-position: top;
 }
